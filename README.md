@@ -57,7 +57,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
 
 For questions, suggestions, or collaboration opportunities:  
 **GitHub:** [megha666-png](https://github.com/megha666-png)  
-**Email:** _Add your preferred contact here_
+**Email:** _dev.megha666@gmail.com_
 
 ---
 
